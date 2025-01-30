@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvlwvagd5n1n4"
+path="res://.godot/imported/eorb.wav-bdfafa06745346b5eb084410751eb70a.sample"
+
+[deps]
+
+source_file="res://assets/prototype sounds/eorb.wav"
+dest_files=["res://.godot/imported/eorb.wav-bdfafa06745346b5eb084410751eb70a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
